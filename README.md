@@ -53,22 +53,22 @@ You can deploy this project using:
 
 Caleb Chigozie Nwaizu.
 
-Future Features.
+# Future Features.
 
 1. Implement styles on CSS
 2. Add elements to HTML
 
 Support our project by visiting microverse.org
 
-Acknowledgements
+# Acknowledgements
 Nothing yet.
 
-FAQ
+# FAQ
 * Q. Would this project break my computer?
    A. No. Why would it?
 
 * Q. Would this project be maintained in the future?
    A. Depends.
 
-LICENSE.
+# LICENSE.
 This project is MIT licensed
