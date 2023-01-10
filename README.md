@@ -109,7 +109,7 @@ To run tests, run the following command:
 
 👤 **Caleb Nwaizu**
 
-- GitHub: [@githubhandle](https://https://github.com/calebchris000)
+- GitHub: [@githubhandle](https://github.com/calebchris000)
 - Twitter: [@twitterhandle](https://twitter.com/calebchris000)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/calebchris000)
 
