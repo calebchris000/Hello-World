@@ -3,7 +3,7 @@
 **Hello Microverse** project is a project based on implementing new features on future projects.
 
 # Built With
-  Client:
+  **Client**
   * HTML.
   * CSS.
   
