@@ -1,74 +1,193 @@
-# Hello Microverse
 
-**Hello Microverse** project is a project based on implementing new features on future projects.
 
-# Built With
-  Client:
-  * HTML.
-  * CSS.
-  
-  Server:
-  * none
+# 📖 Hello Microverse 
 
-Key Features
 
- **Text styling**
+> Describe your project in 1 or 2 sentences.
 
-# Live Demo
-[Link to Live DEMO](https://calebchris000.github.io/Hello-World/)
+**Hello Microverse** is a project created to add new features.
 
-# Getting Started:
+## 🛠 Built With HTML and CSS
+
+### Tech Stack
+
+
+
+ **Client**
+
+   [React.js](https://reactjs.org/)
+
+
+
+  **Server**
+
+  [Express.js](https://expressjs.com/)
+
+
+**Database**
+
+   [PostgreSQL](https://www.postgresql.org/)
+
+# Features
+
+### Text styling
+
+
+- **Style Text**
+- **Colorize Text**
+- **Size Text**
+
+
+
+
+## 🚀 Live Demo
+
+
+- [Live Demo Link](https://calebchris000.github.io/Hello-World/)
+
+
+
+## 💻 Getting Started
+
+
+
 To get a local copy up and running, follow these steps.
 
-# Prerequisites
+### Prerequisites
 
 In order to run this project you need:
-1. **Git**.
-2. **A text editor. (Visual Studio Code, Atom, Sublime Text.)**
-3. **NodeJS.**
 
 
-# Setup
-* Install git by running `sudo apt install git`
-* Install Visual Studio Code by running `sudo apt install visual-studio-code`
-* Install nodejs by running `sudo apt install npm`
-* Clone this repository to your desired folder: `git clone https://github.com/calebchris000/Hello-World.git`
+```sh
+ sudo apt install npm
+```
 
-# Install
-Install this project with: linter
+### Setup
 
-Usage
-To run the project, execute the following command: `npm run index.html`
+Clone this repository to your desired folder:
 
 
-# Run tests
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+
+### Install
+
+Install this project with: 
+
+
+
+```sh
+  cd my-project
+  npm install
+```
+
+
+### Usage
+
+To run the project, execute the following command:
+
+
+```sh
+  ssh server
+```
+
+
+### Run tests
 
 To run tests, run the following command:
-Deployment
+
+
+```sh
+  bin/npm test test/models/article_test.js
+```
+
+
+### Deployment
 
 You can deploy this project using:
 
 
-# Authors
+```sh
+npm deploy node/name-of-file
+```
 
-Caleb Chigozie Nwaizu.
 
-# Future Features.
+## 👥 Authors
 
-1. Implement styles on CSS
-2. Add elements to HTML
 
-Support our project by visiting microverse.org
 
-# Acknowledgements
-Nothing yet.
+👤 **Caleb Nwaizu**
 
-# FAQ
-* Q. Would this project break my computer?
-   A. No. Why would it?
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-* Q. Would this project be maintained in the future?
-   A. Depends.
+👤 **Nwaizu Joshua**
 
-# LICENSE.
-This project is MIT licensed
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+
+
+
+## 🔭 Future Features
+
+
+
+- [STYLING ] **[Add more styles to project]**
+- [EVENTS] **[Create a JS file that accepts input]**
+- [FUNCTIONS] **[Add a functionality that does things]**
+
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+
+
+
+## ⭐️ Show your support
+
+
+
+If you like this project, feel free to donate at our [PayPal link](paypal.com)
+
+
+
+## 🙏 Acknowledgments
+
+
+
+I would like to thank Microverse for helping me create this README file
+
+
+
+## ❓ FAQ
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Would this project break my computer?]**
+
+ - [No. Why would it?]
+
+- **[Would this project be maintained in the future?]**
+
+ - [Yes it would]
+
+
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
