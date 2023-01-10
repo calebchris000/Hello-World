@@ -7,10 +7,10 @@
   * HTML.
   * CSS.
   
-  Server:
+  **Server**
   * none
 
-Key Features
+# Key Features
 
  **Text styling**
 
