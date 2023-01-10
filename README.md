@@ -15,18 +15,18 @@
 
  **Client**
 
-   [React.js](https://reactjs.org/)
+   [HTML](https://www.w3.org/)
 
 
 
   **Server**
 
-  [Express.js](https://expressjs.com/)
+  [NodeJS](nodejs.org/)
 
 
 **Database**
 
-   [PostgreSQL](https://www.postgresql.org/)
+   [MySQL](https://www.mysql.com/)
 
 # Features
 
@@ -121,15 +121,15 @@ npm deploy node/name-of-file
 
 👤 **Caleb Nwaizu**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://https://github.com/calebchris000)
+- Twitter: [@twitterhandle](https://twitter.com/calebchris000)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/calebchris000)
 
 👤 **Nwaizu Joshua**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/josh2funny)
+- Twitter: [@twitterhandle](https://twitter.com/josh2funny)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/josh2funny)
 
 
 
