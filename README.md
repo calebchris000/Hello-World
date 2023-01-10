@@ -24,9 +24,6 @@
   [CSS](https://web.dev/learn/css/)
 
 
-**Database**
-
-   [MySQL](https://www.mysql.com/)
 
 # Features
 
@@ -105,15 +102,6 @@ To run tests, run the following command:
 ```
 
 
-### Deployment
-
-You can deploy this project using:
-
-
-```sh
-npm deploy node/name-of-file
-```
-
 
 ## 👥 Authors
 
@@ -124,12 +112,6 @@ npm deploy node/name-of-file
 - GitHub: [@githubhandle](https://https://github.com/calebchris000)
 - Twitter: [@twitterhandle](https://twitter.com/calebchris000)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/calebchris000)
-
-👤 **Nwaizu Joshua**
-
-- GitHub: [@githubhandle](https://github.com/josh2funny)
-- Twitter: [@twitterhandle](https://twitter.com/josh2funny)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/josh2funny)
 
 
 
@@ -184,7 +166,7 @@ I would like to thank Microverse for helping me create this README file
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
