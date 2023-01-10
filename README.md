@@ -111,7 +111,7 @@ To run tests, run the following command:
 
 - GitHub: [@githubhandle](https://github.com/calebchris000)
 - Twitter: [@twitterhandle](https://twitter.com/calebchris000)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/calebchris000)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/caleb-nwaizu-b815aa23b/)
 
 
 
