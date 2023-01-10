@@ -1,8 +1,8 @@
-#Hello Microverse
+# Hello Microverse
 
 **Hello Microverse** project is a project based on implementing new features on future projects.
 
-#Built With
+# Built With
   Client:
   * HTML.
   * CSS.
@@ -14,13 +14,13 @@ Key Features
 
  **Text styling**
 
-#Live Demo
+# Live Demo
 [Link to Live DEMO](https://calebchris000.github.io/Hello-World/)
 
-#Getting Started:
+# Getting Started:
 To get a local copy up and running, follow these steps.
 
-#Prerequisites
+# Prerequisites
 
 In order to run this project you need:
 1. **Git**.
@@ -28,20 +28,20 @@ In order to run this project you need:
 3. **NodeJS.**
 
 
-#Setup
+# Setup
 * Install git by running `sudo apt install git`
 * Install Visual Studio Code by running `sudo apt install visual-studio-code`
 * Install nodejs by running `sudo apt install npm`
 * Clone this repository to your desired folder: `git clone https://github.com/calebchris000/Hello-World.git`
 
-#Install
+# Install
 Install this project with: linter
 
 Usage
 To run the project, execute the following command: `npm run index.html`
 
 
-#Run tests
+# Run tests
 
 To run tests, run the following command:
 Deployment
@@ -49,7 +49,7 @@ Deployment
 You can deploy this project using:
 
 
-#Authors
+# Authors
 
 Caleb Chigozie Nwaizu.
 
