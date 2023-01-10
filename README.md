@@ -3,7 +3,6 @@
 # 📖 Hello Microverse 
 
 
-> Describe your project in 1 or 2 sentences.
 
 **Hello Microverse** is a project created to add new features.
 
