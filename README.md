@@ -1,74 +1,169 @@
-# Hello Microverse
 
-**Hello Microverse** project is a project based on implementing new features on future projects.
 
-# Built With
-  Client:
-  * HTML.
-  * CSS.
-  
-  Server:
-  * none
+# 📖 Hello Microverse 
 
-Key Features
 
- **Text styling**
 
-# Live Demo
-[Link to Live DEMO](https://calebchris000.github.io/Hello-World/)
+**Hello Microverse** is a project created to add new features.
 
-# Getting Started:
+## 🛠 Built With HTML and CSS
+
+### Tech Stack
+
+
+
+ **HTML Markup**
+
+   [HTML](https://www.w3.org/)
+
+
+
+  **Styling**
+
+  [CSS](https://web.dev/learn/css/)
+
+
+
+# Features
+
+### Text styling
+
+
+- **Style Text**
+- **Colorize Text**
+- **Size Text**
+
+
+
+
+## 🚀 Live Demo
+
+
+- [Live Demo Link](https://calebchris000.github.io/Hello-World/)
+
+
+
+## 💻 Getting Started
+
+
+
 To get a local copy up and running, follow these steps.
 
-# Prerequisites
+### Prerequisites
 
 In order to run this project you need:
-1. **Git**.
-2. **A text editor. (Visual Studio Code, Atom, Sublime Text.)**
-3. **NodeJS.**
 
 
-# Setup
-* Install git by running `sudo apt install git`
-* Install Visual Studio Code by running `sudo apt install visual-studio-code`
-* Install nodejs by running `sudo apt install npm`
-* Clone this repository to your desired folder: `git clone https://github.com/calebchris000/Hello-World.git`
+```sh
+ sudo apt install npm
+```
 
-# Install
-Install this project with: linter
+### Setup
 
-Usage
-To run the project, execute the following command: `npm run index.html`
+Clone this repository to your desired folder:
 
 
-# Run tests
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+
+### Install
+
+Install this project with: 
+
+
+
+```sh
+  cd my-project
+  npm install
+```
+
+
+### Usage
+
+To run the project, execute the following command:
+
+
+```sh
+  ssh server
+```
+
+
+### Run tests
 
 To run tests, run the following command:
-Deployment
-
-You can deploy this project using:
 
 
-# Authors
+```sh
+  bin/npm test test/models/article_test.js
+```
 
-Caleb Chigozie Nwaizu.
 
-# Future Features.
 
-1. Implement styles on CSS
-2. Add elements to HTML
+## 👥 Authors
 
-Support our project by visiting microverse.org
 
-# Acknowledgements
-Nothing yet.
 
-# FAQ
-* Q. Would this project break my computer?
-   A. No. Why would it?
+👤 **Caleb Nwaizu**
 
-* Q. Would this project be maintained in the future?
-   A. Depends.
+- GitHub: [@githubhandle](https://github.com/calebchris000)
+- Twitter: [@twitterhandle](https://twitter.com/calebchris000)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/caleb-nwaizu-b815aa23b/)
 
-# LICENSE.
-This project is MIT licensed
+
+
+
+## 🔭 Future Features
+
+
+
+- [STYLING ] **[Add more styles to project]**
+- [EVENTS] **[Create a JS file that accepts input]**
+- [FUNCTIONS] **[Add a functionality that does things]**
+
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues).
+
+
+
+
+## ⭐️ Show your support
+
+
+
+If you like this project, feel free to donate at our [PayPal link](paypal.com)
+
+
+
+## 🙏 Acknowledgments
+
+
+
+I would like to thank Microverse for helping me create this README file
+
+
+
+## ❓ FAQ
+
+
+- **[Would this project break my computer?]**
+
+ - [No. Why would it?]
+
+- **[Would this project be maintained in the future?]**
+
+ - [Yes it would]
+
+
+
+## 📝 License
+
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+
